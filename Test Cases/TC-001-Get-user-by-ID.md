@@ -1,7 +1,11 @@
 # TC-001 Get user by ID
+**Test ID:** TC-001
 
 ## Preconditions
 API is available.
+
+## Priority
+High
 
 ## Endpoint
 GET /users/1
