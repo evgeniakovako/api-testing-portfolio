@@ -3,8 +3,11 @@
 ## Preconditions
 API is available.
 
-## Request
-GET https://jsonplaceholder.typicode.com/users/1
+## Endpoint
+GET /users/1
+
+Base URL:
+https://jsonplaceholder.typicode.com
 
 ## Test Steps
 1. Open Postman.
